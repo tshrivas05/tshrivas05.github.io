@@ -2402,7 +2402,7 @@ input, select, textarea {
 			}
 
 			ul.feature-icons li:before {
-				background: #4acaa8;
+				background: #79db7c;
 				border-radius: 100%;
 				color: #ffffff;
 				display: block;
@@ -2788,7 +2788,7 @@ input, select, textarea {
 			}
 
 				#header > nav ul li {
-					border-top: solid 2px #5ccfb1;
+					border-left: solid 2px #4c8a4a;
 					display: block;
 					padding: 0;
 				}
@@ -2807,7 +2807,7 @@ input, select, textarea {
 
 						#header > nav ul li a.active {
 							background: #fff;
-							color: #4acaa8 !important;
+							color: #4c8a4a !important;
 						}
 
 					#header > nav ul li:first-child {
@@ -3075,7 +3075,7 @@ input, select, textarea {
 					}
 
 					#titleBar .toggle:before {
-						background: #4acaa8;
+						background: #79db7c;
 						color: #ffffff;
 						content: '\f0c9';
 						display: block;
@@ -3152,6 +3152,7 @@ input, select, textarea {
 			}
 
 			header.major h2 {
+				color: #4c8a4a;
 				font-size: 2.5em;
 			}
 
